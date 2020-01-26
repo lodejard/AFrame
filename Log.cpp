@@ -9,6 +9,7 @@ This library is free software; you can redistribute it and/or
 modify it under the terms of the MIT license.
 Please see the included documents for further information.
 */
+#include "Arduino.h"
 #include "Log.h"
 
 Log out;
